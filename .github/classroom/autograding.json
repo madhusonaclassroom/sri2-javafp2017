@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ww",
+      "setup": "",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
